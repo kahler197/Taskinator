@@ -146,6 +146,7 @@ footer {
   position: relative;
   top: -3px;
   box-shadow: 0 3px var(--grey);
+  margin-left: 10px;
 }
 
 .btn:hover {
@@ -175,6 +176,7 @@ footer {
   width: 100%;
   max-width: 100%;
   margin: 0;
+  margin-left: 10px;
   border: 2px solid var(--grey);
   border-radius: 12px;
   -moz-appearance: none;
